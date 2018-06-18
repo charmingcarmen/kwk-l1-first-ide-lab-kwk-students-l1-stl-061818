@@ -1,2 +1,3 @@
 carmen
 hello
+clear
